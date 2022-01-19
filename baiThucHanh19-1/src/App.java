@@ -1,26 +1,3 @@
-/* import java.util.Scanner;
-
-public class App {
-    public static void main(String[] args) throws Exception {
-        // Khai bao bien
-        double heSoA, heSoB, nghiemX;
-        // Can thong bao cho nguoi dung nhap vao he so
-        System.out.println("Nhap he so A: ");
-        // Doc gia tri nguoi dung nhap vao tu ban phim => gan vao bien
-        // Khai bao doi tuong Scanner de doc du lieu tu nguoi dung vao
-        Scanner sc = new Scanner(System.in);
-        // Gan gia tri nguoi dung nhap vao tu ban phim cho bien so heSoA
-        heSoA = sc.nextDouble();
-        // Can thong bao cho nguoi dung vao he so
-        System.out.println("Nhap he so B: ");
-        heSoB = sc.nextDouble();
-        nghiemX = -heSoB / heSoA;
-
-    }
-
-}
- */
-
 import java.util.Scanner;
 
 public class App {
