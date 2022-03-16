@@ -3,7 +3,7 @@ package main;
 import shapes.HinhChuNhat;
 import shapes.HinhTron;
 
-public class MainClass {
+public class App20 {
 
     public static void main(String[] args) {
         // Khai bao cac doi tuong bang tu khoa new
